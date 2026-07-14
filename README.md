@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF6600,50:FF8C00,100:1a1a1a&height=280&section=header&text=Aditya%20Chourasia&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Aspiring%20Web%20Developer%20%E2%80%A2%20Full-Stack%20Learner%20%E2%80%A2%20CSE%20Student&descAlignY=62&descSize=19" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=capsule&color=0:FF6600,50:FF8C00,100:1a1a1a&height=240&section=header&text=Aditya%20Chourasia&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=43&desc=Aspiring%20Web%20Developer%20%E2%80%A2%20Full-Stack%20Learner%20%E2%80%A2%20CSE%20Student&descAlignY=64&descSize=19" width="100%" />
 
 <br>
 
@@ -104,7 +104,11 @@ Enthusiastic **Web developer** and **CSE student** with a passion for creating r
 <br><br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/adichourasia/adichourasia/output/snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adichourasia/adichourasia/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adichourasia/adichourasia/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/adichourasia/adichourasia/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </div>
 
 <br>
