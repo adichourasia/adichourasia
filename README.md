@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6600,50:FF8C00,100:1a1a1a&height=300&section=header&text=Aditya%20Chourasia&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=Aspiring%20Web%20Developer%20%E2%80%A2%20Full-Stack%20Learner%20%E2%80%A2%20CSE%20Student&descAlignY=52&descSize=19&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6600,50:FF8C00,100:1a1a1a&height=260&section=header&text=Aditya%20Chourasia&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Aspiring%20Web%20Developer%20%E2%80%A2%20Full-Stack%20Learner%20%E2%80%A2%20CSE%20Student&descAlignY=62&descSize=19" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=FF8C00&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student+%40+Amity+University+Chhattisgarh;Building+Modern+Web+Projects;Always+Learning%2C+Always+Shipping" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=FF8C00&center=true&vCenter=true&width=750&lines=BTECH+CSE+Student+%40+Amity+University+Chhattisgarh;Building+Responsive+Websites;Dream+.+Design+.+Develop+.+Deploy" />
 
 <br><br>
 
@@ -15,9 +15,9 @@
 
 <br><br>
 
-## 💡 About
+## 💡 ABOUT ME
 
-Building things at the intersection of **web development**, **software engineering**, and **creative UI design**. I focus on expanding my full-stack capabilities, experimenting with clean frameworks, and learning by actively shipping code.
+Enthusiastic **Web developer** and **CSE student** with a passion for creating responsive and interactive websites. Interested in **Full-Stack development** and continuously improving technical skills through projects and hands-on learning.
 
 <br><br>
 
