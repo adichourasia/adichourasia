@@ -1,38 +1,52 @@
 <div align="center">
-  <h1>🔸 HI, I'M A WEB DEVELOPER 🔸</h1>
-  <p><code>CRAFTING TRANSPARENT & MULTI-DIMENSIONAL DIGITAL EXPERIENCES</code></p>
+  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=10&bgAnimate=true&bgAnimateDur=7&height=220&section=header&text=ADI%20CHOURASIA&fontSize=45&fontColor=ffffff&desc=Web%20Developer%20|%20Ethical%20Hacker&descSize=18&descAlignY=65&theme=cyberpunk" width="100%" alt="Animated Header" />
   
   <br/>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Aesthetic-Orange_Prism-ff5100" alt="Aesthetic" />
-    <img src="https://img.shields.io/badge/Role-Frontend_Architect-ff9900" alt="Role" />
-    <img src="https://img.shields.io/badge/Focus-Clean_UI_%26_Effects-ffcc00" alt="Focus" />
+    <img src="https://img.shields.io/badge/B.TECH_CSE-ff5100?style=for-the-badge&logoColor=white" alt="Degree" />
+    <img src="https://img.shields.io/badge/OPEN_TO_COLLAB-ffa800?style=for-the-badge&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/ROLE-WEB_DEVELOPER-ff3c00?style=for-the-badge&logoColor=white" alt="Role" />
   </p>
 </div>
 
 ---
 
-### 🔮 Architecture & Dimensions
+### 💡 About Me
+Building interactive digital experiences at the intersection of high-fidelity frontend engineering and robust, secure architecture. I design with modern framework aesthetics, balancing rapid UI performance with algorithmic efficiency.
 
-<table>
+---
+
+### 🧩 Skills Spectrum
+
+<table width="100%">
   <tr>
-    <td width="55%" valign="top">
-      <h4>🛠️ Core Tech Spectrum</h4>
-      <ul>
-        <li><b>Frontend Ecosystem:</b> JavaScript (ES6+), TypeScript, React, Next.js</li>
-        <li><b>Styling & UI Effects:</b> TailwindCSS, CSS Modules, Framer Motion, WebGL basics</li>
-        <li><b>Tools & Environments:</b> Git, Node.js, Webpack/Vite</li>
-      </ul>
-      <h4>🌐 The Prism Concept</h4>
-      <blockquote>"True design is like a crystal prism. It takes complex, invisible requirements and splits them into a beautiful, vibrant spectrum of clean visual components."</blockquote>
+    <td width="30%"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-ff5100?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-ffa800?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-ff3c00?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-ff5100?style=flat-square&logo=c%2B%2B&logoColor=white" />
     </td>
-    <td width="45%" valign="top" align="center">
-      <h4>⚡ Tech Stack Grid</h4>
-      <br/>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,vite,nodejs,git,github,vscode&theme=dark" width="100%" alt="Tech Stack" />
-      </p>
+  </tr>
+  
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-ff3c00?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-ffa800?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-ff5100?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-ff3c00?style=flat-square&logo=html5&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Backend & Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-ffa800?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-ff5100?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-ff3c00?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-ffa800?style=flat-square&logo=linux&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -40,5 +54,7 @@
 ---
 
 <div align="center">
-  <p>⚡ <i>Let's connect and build something spectacular. Drop a follow or star a repository if you like the layout!</i> 🌌</p>
+  <img src="https://capsule-render.vercel.app/type=rect&color=ff5100&height=12&section=footer&theme=cyberpunk" width="100%" />
+  <br/>
+  <sub>⚡ <i>Let's connect and build something spectacular. Drop a follow or star a repository if you like the layout!</i></sub>
 </div>
