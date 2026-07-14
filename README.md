@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/B.Tech%20CSE-1a1a1a?style=for-the-badge&labelColor=FF8C00&color=1a1a1a" />
 <img src="https://img.shields.io/badge/Open%20to%20Collab-1a1a1a?style=for-the-badge&labelColor=FF6600&color=1a1a1a" />
 <img src="https://komarev.com/ghpvc/?username=adichourasia&label=Profile+Views&color=ff8c00&style=for-the-badge" />
-<a href="https://adityachourasia-portfolionew.vercel.app/"><img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-FF8C00?style=for-the-badge&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-FF8C00?style=for-the-badge&logoColor=white" /></a>
 
 <br><br>
 
