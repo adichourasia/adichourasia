@@ -1,60 +1,171 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=10&bgAnimate=true&bgAnimateDur=7&height=220&section=header&text=ADI%20CHOURASIA&fontSize=45&fontColor=ffffff&desc=Web%20Developer%20|%20Ethical%20Hacker&descSize=18&descAlignY=65&theme=cyberpunk" width="100%" alt="Animated Header" />
-  
-  <br/>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/B.TECH_CSE-ff5100?style=for-the-badge&logoColor=white" alt="Degree" />
-    <img src="https://img.shields.io/badge/OPEN_TO_COLLAB-ffa800?style=for-the-badge&logoColor=white" alt="Status" />
-    <img src="https://img.shields.io/badge/ROLE-WEB_DEVELOPER-ff3c00?style=for-the-badge&logoColor=white" alt="Role" />
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6600,50:FF8C00,100:1a1a1a&height=300&section=header&text=Biswajit%20Nayak&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20UI%2FUX%20Designer&descAlignY=52&descSize=19&animation=twinkling" width="100%" />
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=FF8C00&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student+%40+Amity+University;Building+Web+%2B+AI%2FML+Projects;Always+Learning%2C+Always+Shipping" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/B.Tech%20CSE-1a1a1a?style=for-the-badge&labelColor=FF8C00&color=1a1a1a" />
+<img src="https://img.shields.io/badge/Open%20to%20Collab-1a1a1a?style=for-the-badge&labelColor=FF6600&color=1a1a1a" />
+<img src="https://komarev.com/ghpvc/?username=Biswajitn23&label=Profile+Views&color=ff8c00&style=for-the-badge" />
+<a href="https://your-portfolio-link.vercel.app"><img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-FF8C00?style=for-the-badge&logoColor=white" /></a>
+
+<br><br>
+
+## 💡 About
+
+Building things at the intersection of **web development**, **AI/ML**, and **UI/UX design**. I learn by shipping — most projects start as "let's see if this works."
+
+<br><br>
+
+## 🧩 Skills
+
+<br>
+
+**Languages**
+<div align="left">
+<img src="https://img.shields.io/badge/Python-FF8C00?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-FF8C00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-FF8C00?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C-FF8C00?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-FF8C00?style=for-the-badge&logo=javascript&logoColor=white" />
 </div>
 
----
+<br>
 
-### 💡 About Me
-Building interactive digital experiences at the intersection of high-fidelity frontend engineering and robust, secure architecture. I design with modern framework aesthetics, balancing rapid UI performance with algorithmic efficiency.
+**Frontend**
+<div align="left">
+<img src="https://img.shields.io/badge/React-FF6600?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-FF6600?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-FF6600?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-FF6600?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-FF6600?style=for-the-badge&logo=threedotjs&logoColor=white" />
+</div>
 
----
+<br>
 
-### 🧩 Skills Spectrum
+**Backend**
+<div align="left">
+<img src="https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=FF8C00" />
+<img src="https://img.shields.io/badge/Express.js-1a1a1a?style=for-the-badge&logo=express&logoColor=FF8C00" />
+<img src="https://img.shields.io/badge/Flask-1a1a1a?style=for-the-badge&logo=flask&logoColor=FF8C00" />
+<img src="https://img.shields.io/badge/REST%20APIs-1a1a1a?style=for-the-badge&logo=fastapi&logoColor=FF8C00" />
+</div>
+
+<br>
+
+**Database**
+<div align="left">
+<img src="https://img.shields.io/badge/MySQL-FF8C00?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FF8C00?style=for-the-badge&logo=firebase&logoColor=white" />
+</div>
+
+<br>
+
+**AI / ML & Computer Vision**
+<div align="left">
+<img src="https://img.shields.io/badge/OpenCV-FF6600?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLO-FF6600?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-FF6600?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-FF6600?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF6600?style=for-the-badge&logo=streamlit&logoColor=white" />
+</div>
+
+<br>
+
+**Design & Tools**
+<div align="left">
+<img src="https://img.shields.io/badge/Figma-1a1a1a?style=for-the-badge&logo=figma&logoColor=FF8C00" />
+<img src="https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=FF8C00" />
+<img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=FF8C00" />
+<img src="https://img.shields.io/badge/VS%20Code-1a1a1a?style=for-the-badge&logo=visualstudiocode&logoColor=FF8C00" />
+<img src="https://img.shields.io/badge/Vercel-1a1a1a?style=for-the-badge&logo=vercel&logoColor=FF8C00" />
+<img src="https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=FF8C00" />
+<img src="https://img.shields.io/badge/Postman-1a1a1a?style=for-the-badge&logo=postman&logoColor=FF8C00" />
+</div>
+
+<br><br>
+
+## 🚀 Projects
 
 <table width="100%">
-  <tr>
-    <td width="30%"><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-ff5100?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-ffa800?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-ff3c00?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-ff5100?style=flat-square&logo=c%2B%2B&logoColor=white" />
-    </td>
-  </tr>
-  
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-ff3c00?style=flat-square&logo=react&logoColor=white" />
-      <img src="https://img.shields.io/badge/Next.js-ffa800?style=flat-square&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-ff5100?style=flat-square&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-ff3c00?style=flat-square&logo=html5&logoColor=white" />
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>Backend & Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-ffa800?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-ff5100?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-ff3c00?style=flat-square&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-ffa800?style=flat-square&logo=linux&logoColor=white" />
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🎬 AlgoStorm</h3>
+<p>Money Heist-themed hackathon site for AUC — 3D vault, custom cursor, cinematic music player.</p>
+<img src="https://img.shields.io/badge/React-FF8C00?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-FF8C00?style=flat-square&logo=threedotjs&logoColor=white" />
+<br><br>
+<a href="https://algostormauc.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-FF6600?style=for-the-badge" /></a>
+</td>
+<td width="50%" valign="top">
+<h3>🔐 Piratage Website</h3>
+<p>Full-stack portal for the college's ethical hacking club.</p>
+<img src="https://img.shields.io/badge/TypeScript-FF8C00?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FF8C00?style=flat-square&logo=firebase&logoColor=white" />
+<br><br>
+<a href="https://piratagewebsite.tech"><img src="https://img.shields.io/badge/Live%20Demo-FF6600?style=for-the-badge" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🤟 ASL Recognition</h3>
+<p>Real-time sign language detection using computer vision.</p>
+<img src="https://img.shields.io/badge/MediaPipe-FF8C00?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF8C00?style=flat-square&logo=streamlit&logoColor=white" />
+</td>
+<td width="50%" valign="top">
+<h3>👥 CrowdPulse</h3>
+<p>Crowd density detection from live video feeds.</p>
+<img src="https://img.shields.io/badge/YOLOv5-FF8C00?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-FF8C00?style=flat-square&logo=flask&logoColor=white" />
+</td>
+</tr>
 </table>
 
----
+<br><br>
+
+## 📊 Stats
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/type=rect&color=ff5100&height=12&section=footer&theme=cyberpunk" width="100%" />
-  <br/>
-  <sub>⚡ <i>Let's connect and build something spectacular. Drop a follow or star a repository if you like the layout!</i></sub>
+
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Biswajitn23&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=15&title_color=FF8C00&icon_color=FF6600&text_color=ffffff&bg_color=1a1a1a" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Biswajitn23&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&title_color=FF8C00&text_color=ffffff&bg_color=1a1a1a" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Biswajitn23&theme=tokyonight&hide_border=true&border_radius=15&background=1a1a1a&ring=FF8C00&fire=FF8C00&currStreakLabel=FF6600" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitn23&bg_color=1a1a1a&color=FF8C00&line=FF8C00&point=ffffff&area=true&hide_border=true&radius=15" width="100%" />
+
+</div>
+
+<br><br>
+
+## 🔗 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/biswajit-nayak-9a0b97321"><img src="https://img.shields.io/badge/LinkedIn-FF8C00?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/biswajitn2304"><img src="https://img.shields.io/badge/Twitter-FF8C00?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.instagram.com/biswajitgotnochill/"><img src="https://img.shields.io/badge/Instagram-FF8C00?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:nbiswajit@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF8C00?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<br><br>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Biswajitn23/Biswajitn23/output/snake.svg" />
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:FF8C00,100:FF6600&height=140&section=footer" />
 </div>
