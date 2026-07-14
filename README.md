@@ -16,22 +16,17 @@
         <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255, 120, 0, 0.05)" stroke-width="1"/>
       </pattern>
     </defs>
-
     <rect width="100%" height="100%" fill="url(#prism-grid)" />
-    
     <polygon points="100,20 700,40 650,180 150,160" fill="url(#orange-holo-grad)" />
     <circle cx="400" cy="100" r="120" fill="none" stroke="url(#orange-text-grad)" stroke-width="0.75" stroke-dasharray="8 12" opacity="0.6" />
-
     <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', Roboto, sans-serif" font-size="42" font-weight="900" fill="url(#orange-text-grad)" letter-spacing="4">HI, I'M A WEB DEVELOPER</text>
     <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="400" fill="#ccdee8" letter-spacing="6">CRAFTING TRANSPARENT & MULTI-DIMENSIONAL DIGITAL EXPERIENCES</text>
   </svg>
-
   <br/><br/>
-
   <p align="center">
-    <img src="https://img.shields.io/badge/Aesthetic-Orange_Prism-ff5100?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Aesthetic Badge" />
-    <img src="https://img.shields.io/badge/Role-Frontend_Architect-ff9900?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Role Badge" />
-    <img src="https://img.shields.io/badge/Focus-Clean_UI_%26_Effects-ffcc00?style=for-the-badge&logoColor=0d1117&labelColor=0d1117" alt="Focus Badge" />
+    <img src="[https://img.shields.io/badge/Aesthetic-Orange_Prism-ff5100?style=for-the-badge&logoColor=white&labelColor=0d1117](https://img.shields.io/badge/Aesthetic-Orange_Prism-ff5100?style=for-the-badge&logoColor=white&labelColor=0d1117)" alt="Aesthetic" />
+    <img src="[https://img.shields.io/badge/Role-Frontend_Architect-ff9900?style=for-the-badge&logoColor=white&labelColor=0d1117](https://img.shields.io/badge/Role-Frontend_Architect-ff9900?style=for-the-badge&logoColor=white&labelColor=0d1117)" alt="Role" />
+    <img src="[https://img.shields.io/badge/Focus-Clean_UI_%26_Effects-ffcc00?style=for-the-badge&logoColor=0d1117&labelColor=0d1117](https://img.shields.io/badge/Focus-Clean_UI_%26_Effects-ffcc00?style=for-the-badge&logoColor=0d1117&labelColor=0d1117)" alt="Focus" />
   </p>
 </div>
 
@@ -39,35 +34,25 @@
 
 ### 🔮 Architecture & Dimensions
 
-<table width="100%">
+<table>
   <tr>
-    <td width="55%" valign="top">
-      <h3>🛠️ Core Tech Spectrum</h3>
-      <p>Here is where code meets refraction. I build applications with high visual fidelity, transparent structures, and modular, scalable architectures.</p>
+    <td width="60%" valign="top">
+      <h4>🛠️ Core Tech Spectrum</h4>
       <ul>
         <li><b>Frontend Ecosystem:</b> JavaScript (ES6+), TypeScript, React, Next.js</li>
         <li><b>Styling & UI Effects:</b> TailwindCSS, CSS Modules, Framer Motion, WebGL basics</li>
         <li><b>Tools & Environments:</b> Git, Node.js, Webpack/Vite</li>
       </ul>
-      <h3>🌐 The Prism Concept</h3>
+      <h4>🌐 The Prism Concept</h4>
       <blockquote>"True design is like a crystal prism. It takes complex, invisible requirements and splits them into a beautiful, vibrant spectrum of clean visual components."</blockquote>
     </td>
-    <td width="45%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=adichourasia&show_icons=true&theme=koke&bg_color=0d1117&title_color=ff5100&text_color=8b949e&icon_color=ff9900&border_color=ff5100&hide_border=false" width="100%" alt="GitHub Stats" />
+    <td width="40%" valign="top" align="center">
+      <img src="[https://github-readme-streak-stats.herokuapp.com/?user=adichourasia&theme=tokyonight&background=0d1117&fire=ff5100&ring=ff9900&labels=8b949e&currStreakNum=ffcc00&sideNums=8b949e&border=ff5100](https://github-readme-streak-stats.herokuapp.com/?user=adichourasia&theme=tokyonight&background=0d1117&fire=ff5100&ring=ff9900&labels=8b949e&currStreakNum=ffcc00&sideNums=8b949e&border=ff5100)" width="100%" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
 ---
-
-### 💎 Refracted Contributions
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adichourasia&layout=compact&theme=koke&bg_color=0d1117&title_color=ff9900&text_color=8b949e&icon_color=ff5100&border_color=ff5100&hide_border=false" width="48%" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adichourasia&theme=tokyonight&background=0d1117&fire=ff5100&ring=ff9900&labels=8b949e&currStreakNum=ffcc00&sideNums=8b949e&border=ff5100" width="48%" alt="GitHub Streak" />
-</div>
-
-<br />
 
 <div align="center">
   <svg viewBox="0 0 1000 20" width="100%">
