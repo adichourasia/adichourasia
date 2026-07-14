@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=glitch&color=0:FF6600,50:FF8C00,100:1a1a1a&height=280&section=header&text=Aditya%20Chourasia&fontSize=75&fontColor=ffffff&animation=scaleIn&fontAlignY=40&desc=Aspiring%20Web%20Developer%20%E2%80%A2%20Full-Stack%20Learner%20%E2%80%A2%20CSE%20Student&descAlignY=62&descSize=19" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6600,50:FF8C00,100:1a1a1a&height=280&section=header&text=Aditya%20Chourasia&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Aspiring%20Web%20Developer%20%E2%80%A2%20Full-Stack%20Learner%20%E2%80%A2%20CSE%20Student&descAlignY=62&descSize=19" width="100%" />
 
 <br>
 
@@ -96,7 +96,7 @@ Enthusiastic **Web developer** and **CSE student** with a passion for creating r
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aditya-chourasia-5a4893327/"><img src="https://img.shields.io/badge/LinkedIn-FF8C00?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/_aditya_chourasia_/"><img src="https://img.shields.io/badge/Instagram-FF8C00?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/_aditya_chourasia_/"><img src="https://img.shields.io/badge/Instagram-FF8C00?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:adityachourasia716@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF8C00?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
